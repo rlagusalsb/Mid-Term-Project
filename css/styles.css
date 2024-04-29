@@ -10766,7 +10766,7 @@ textarea.form-control-lg {
   height: 300px;
   display: block;
   margin: 10vh 17vh;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
 }
 
 .favorites {
@@ -10813,5 +10813,5 @@ textarea.form-control-lg {
 }
 
 .git a:visited{
-  color: black;
+  color: blue;
 }
