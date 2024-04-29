@@ -10748,20 +10748,17 @@ textarea.form-control-lg {
   background-size: cover;
 }
 
-h1 {
+.h2 {
   text-align: center;
 }
 
 .lists{
   text-align: center;
-  font-family: 'Pretendard-Thin';
   display: block;
   text-align: center;
   font-weight: 400;
-  font-family: 'Pretendard-Thin';
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.5;
-
 }
 
 .list_img {
@@ -10774,7 +10771,7 @@ h1 {
 
 .favorites {
   display:inline-flex;
-  margin-top: 60px;
+  margin-top: 30px;
 }
 
 .black {
@@ -10801,7 +10798,7 @@ h1 {
 
 .right {
   display:inline-block; 
-  width:380px; 
+  width:400px; 
   height: 1px;
   margin-left: 550px;
 }
@@ -10809,4 +10806,12 @@ h1 {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+}
+
+.git a{
+  text-decoration: none;
+}
+
+.git a:visited{
+  color: black;
 }
